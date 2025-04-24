@@ -17,6 +17,6 @@ and this project adheres to
 - Initial release of the module for creating Cloudflare zones.
 
 [unreleased]:
-  htps://github.com/visiosto/terraform-cloudflare-zone/compare/v0.1.0...HEAD
+  https://github.com/visiosto/terraform-cloudflare-zone/compare/v0.1.0...HEAD
 [0.1.0]:
   https://github.com/visiosto/terraform-cloudflare-zone/releases/tag/v0.1.0
